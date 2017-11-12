@@ -1,3 +1,4 @@
+// TODO: Inherit and only override read?
 var bs = require('bonescript');
 
 function FireSensor(data) {
